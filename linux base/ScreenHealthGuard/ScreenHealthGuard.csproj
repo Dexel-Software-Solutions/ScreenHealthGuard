@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
+    <RootNamespace>ScreenHealthGuard</RootNamespace>
+    <AssemblyName>ScreenHealthGuard</AssemblyName>
+    <Version>1.0.0</Version>
+    <Authors>Demiyan Dissanayake</Authors>
+    <Company>Dexel Software Solutions</Company>
+    <Product>Screen Health Guard</Product>
+    <Description>Digital Eye-Strain &amp; Screen Health Guard - 20-20-20 reminders, break tracking and weekly health reports.</Description>
+    <Copyright>Copyright (c) Demiyan Dissanayake</Copyright>
+    <RepositoryUrl>https://github.com/dexel-software-solutions</RepositoryUrl>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+</Project>
