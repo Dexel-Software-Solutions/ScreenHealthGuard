@@ -43,13 +43,6 @@ At the end of each week it gives you a clear report of your habits, with a healt
 | 🚀 | **Start with Windows** | Optional per-user auto-start, no administrator rights needed. |
 | 🔒 | **Privacy-first** | Only the *time since your last input* is read. No keystrokes, screenshots or window titles. Data never leaves your PC. |
 
-## 🖼️ Screenshots
-
-<!-- Replace these placeholders with real screenshots (create a docs/screenshots folder) -->
-| Break prompt | Tray menu | Weekly report |
-|:---:|:---:|:---:|
-| ![Break prompt](docs/screenshots/break-prompt.png) | ![Tray menu](docs/screenshots/tray-menu.png) | ![Weekly report](docs/screenshots/weekly-report.png) |
-
 ## ⬇️ Download
 
 Get the latest ready-to-run build from the **[Releases page](https://github.com/dexel-software-solutions/ScreenHealthGuard/releases)**.
